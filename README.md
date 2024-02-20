@@ -42,6 +42,8 @@ I am a relatively new talon user, and I am finding that the number of builtin co
 - [ ] More app specific commands
   - [ ] Basically any menu bar item for a popular MacOS app should be present
     - [ ] With the name of the command in the bar matching the spoken command
+- [ ] There should more often be multiple phrases for the same command
+  - [ ] Instead of confusion over word order of "tab new"/"new tab" the word order should appear both ways.
 
 ## Contribute
 
