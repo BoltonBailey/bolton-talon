@@ -1,118 +1,64 @@
 URL,Spoken name
-https://archive.org/,internet archive
 https://asoftmurmur.com/,a soft murmur
-https://blog.google.com/,google blog
-https://calendar.google.com,google calendar
-https://chaosparrot.github.io/talon_practice/,talon practice
-https://chat.openai.com/,chat gpt
-https://chat.openai.com/,open ai chat
-https://coinmarketcap.com/,coin market cap
-https://discord.com/channels/915138780216823849/918236290439335936,manifold discord
-https://discord.com/channels/@me,discord
-https://docs.google.com/,google docs
-https://docs.google.com/presentation/,google slides
-https://docs.google.com/spreadsheets/,google sheets
-https://docs.manifold.markets/api,manifold api
-https://drive.google.com/,google drive
-https://dropbox.com/,dropbox
-https://en.wikipedia.org/,wikipedia
-https://etherscan.io/,ether scan
-https://gist.github.com/,gist
-https://gist.github.com/,github gist
-https://pages.github.com/,github pages
-https://github.com/,github
-https://github.com/david-tejada/rango,rain go GitHub
-https://github.com/leanprover-community/mathlib4,math library GitHub
-https://github.com/leanprover-community/mathlib4/pulls?q=is%3Aopen+is%3Apr+author%3ABoltonBailey+sort%3Aupdated-desc,my pull requests
-https://lean-lang.org/functional_programming_in_lean/,functional programming in lean
-https://lean-lang.org/lean4/doc/,lean manual
-https://leanprover-community.github.io/,lean prover community
-https://leanprover-community.github.io/mathlib4_docs,math docks
-https://leanprover.zulipchat.com/#,lean chat
-https://mail.google.com/,gmail
-https://manifold.markets/home,manifold
-https://google.com/maps/,google maps
-https://meet.google.com/,goole meet
-https://news.google.com/,google news
-https://news.ycombinator.com/news,hacker news
-https://outlook.office.com/mail/,outlook
-https://polygonscan.com/,polygon scan
-https://creativecommons.org/,creative commons
-https://rango.click/#/,rain go
-https://read.amazon.com/kindle-library,kindle
-https://reservoir.lean-lang.org/,reservoir
-https://scholar.google.com/,google scholar
-https://search.talonvoice.com/search/,talon repository search
-https://sites.google.com/,google sites
-https://talon-knausj-cheatsheet.netlify.app/,talon cheatsheet
-https://talon.wiki/,talon wiki
-https://talonvoice.com,talon home page
-https://talonvoice.slack.com/messages/help,talon slack
-https://theoldreader.com/posts/all,the old reader
-https://theuniversitygroup.appfolio.com/connect/users/sign_in,the university group
-https://twitter.com/,twitter
-https://weather.com/,weather
-https://web.archive.org/,way back machine
-https://workspace.google.com/,google workspace
-https://www.4shared.com,four shared
 https://www.abcnews.go.com,abc news
 https://www.about.com,about
-https://www.accounts.google.com,google accounts
 https://www.addthis.com,add this
 https://www.addtoany.com,add to any
 https://www.adobe.com,adobe
-https://www.ads.google.com,google ads
-https://www.adssettings.google.com,google ads settings
 https://www.afternic.com,after nick
 https://www.alexa.com,alexa
-https://www.alibaba.com,alibaba
 https://www.alicdn.com,ali cdn
 https://www.aliexpress.com,ali express
+https://www.alibaba.com,alibaba
 https://www.amazon.com/,amazon
 https://www.amazonaws.com,amazon web services
 https://www.android.com,android
 https://www.androidauthority.com,android authority
-https://www.apnews.com,associated press
 https://www.apple.com,apple
 https://www.apple.com,apple
 https://www.artstation.com,art station
+https://www.apnews.com,associated press
 https://www.bandcamp.com,band camp
 https://www.barnesandnoble.com,barnes and noble
 https://www.bbc.com,bbc
-https://www.bbc.com,british broadcasting corporation
 https://www.bestbuy.com,best buy
 https://www.biblegateway.com,bible gateway
 https://www.bigcommerce.com,big commerce
 https://www.bing.com,bing
 https://www.bitly.com,bitly
 https://www.blackberry.com,blackberry
-https://www.blogger.com,blogger
 https://www.bloglovin.com,blog lovin
+https://www.blogger.com,blogger
+https://www.draft.blogger.com,blogger draft
 https://www.bloomberg.com,bloomberg
 https://www.booking.com,booking
-https://www.books.google.com,google books
 https://www.boston.com,boston
 https://www.box.com,box
 https://www.brandbucket.com,brand bucket
 https://www.britannica.com,britannica
+https://www.bbc.com,british broadcasting corporation
 https://www.businessinsider.com,business insider
 https://www.businessinsider.com,business insider
 https://www.buydomains.com,buy domains
 https://www.buzzfeed.com,buzz feed
-https://www.calendar.google.com,google calendar
 https://www.canalblog.com,canal blog
+https://www.storage.canalblog.com,canalblog storage
 https://www.canva.com,canva
 https://www.cbslocal.com,cbs local
 https://www.cbsnews.com,cbs news
 https://www.change.org/,change dot org
+https://chat.openai.com/,chat gpt
 https://www.chess.com/home,chess dot com
 https://www.clarin.com,clarin
 https://www.cloudflare.com,cloud flare
 https://www.cloudflare.com/,cloud flare
-https://www.code.google.com,google code
+https://codegolf.stackexchange.com,code golf stack exchange
+https://coinmarketcap.com/,coin market cap
 https://www.collinsdictionary.com,collins dictionary
+https://cs.stackexchange.com,computer science stack exchange
 https://www.cpanel.com,cpanel
 https://www.craiyon.com,crayon
+https://creativecommons.org/,creative commons
 https://www.creativecommons.org,creative commons
 https://www.cursorless.org/cheatsheet,cursorless cheatsheet
 https://www.cursorless.org/docs/,cursorless docks
@@ -121,25 +67,25 @@ https://www.dan.com,dan
 https://www.deezer.com,deezer
 https://www.depositfiles.com,deposit files
 https://www.detik.com,detik
-https://www.developers.google.com,google developers
 https://www.deviantart.com,deviant art
 https://www.dictionary.com,dictionary
+https://discord.com/channels/@me,discord
 https://www.disney.com,disney
 https://www.disqus.com,disqus
-https://www.docs.google.com,google docs
 https://www.domainmarket.com,domain market
 https://www.doordash.com,door dash
-https://www.draft.blogger.com,blogger draft
 https://www.dreamstime.com,dreamstime
-https://www.drive.google.com,google drive
-https://www.dropbox.com,dropbox
 https://www.dropcatch.com,drop catch
+https://dropbox.com/,dropbox
+https://www.dropbox.com,dropbox
 https://www.drugs.com,drugs dot com
 https://www.ebay.com,ebay
 https://www.ebay.com,ebay
 https://www.economist.com,economist
 https://www.enable-javascript.com,enable javascript
 https://www.engadget.com,engadget
+https://www.nginx.com,engine x
+https://etherscan.io/,ether scan
 https://www.etsy.com,etsy
 https://www.euronews.com,euronews
 https://www.eventbrite.com,event bright
@@ -148,34 +94,80 @@ https://www.facebook.com,facebook
 https://www.famousbirthdays.com,famous birthdays
 https://www.fandom.com,fandom
 https://www.feedburner.com,feed burner
-https://www.files.wordpress.com,wordpress files
-https://www.finance.yahoo.com,yahoo finance
+https://www.ft.com,financial times
 https://www.findmeglutenfree.com,find me gluten free
 https://www.flickr.com,flickr
 https://www.foodandwine.com,food and wine
 https://www.forbes.com,forbes
+https://www.4shared.com,four shared
 https://www.foursquare.com,four square
 https://www.foxnews.com,fox news
+https://www.thefreedictionary.com,free dictionary
 https://www.freepik.com,freepik
-https://www.ft.com,financial times
+https://lean-lang.org/functional_programming_in_lean/,functional programming in lean
 https://www.gamerant.com,game rant
-https://www.get.google.com,google get
 https://www.gettyimages.com,getty images
+https://gist.github.com/,gist
+https://github.com/,github
 https://www.github.com,github
+https://gist.github.com/,github gist
+https://pages.github.com/,github pages
 https://www.gizmodo.com,gizmodo
 https://www.globo.com,globo
+https://mail.google.com/,gmail
 https://www.gmail.com,gmail
 https://www.godaddy.com,go daddy
 https://www.gofundme.com,go fund me
 https://www.goodhousekeeping.com,good housekeeping
 https://www.goodreads.com/,good reads
-https://www.google.com.br,google br
 https://www.google.com/,google
+https://www.accounts.google.com,google accounts
+https://www.ads.google.com,google ads
+https://www.adssettings.google.com,google ads settings
+https://blog.google.com/,google blog
 https://www.googleblog.com,google blog
-https://www.googleusercontent.com,google user content
-https://www.gravatar.com,gravatar
+https://www.books.google.com,google books
+https://www.google.com.br,google br
+https://calendar.google.com,google calendar
+https://www.calendar.google.com,google calendar
+https://www.code.google.com,google code
+https://www.developers.google.com,google developers
+https://docs.google.com/,google docs
+https://www.docs.google.com,google docs
+https://drive.google.com/,google drive
+https://www.drive.google.com,google drive
+https://www.earth.google.com/,google earth
+https://www.google.com/finance/,google finance
+https://www.get.google.com,google get
 https://www.groups.google.com,google groups
+https://www.ipv4.google.com,google ipv4
+https://www.mail.google.com,google mail
+https://google.com/maps/,google maps
+https://www.maps.google.com,google maps
+https://www.myaccount.google.com,google my account
+https://news.google.com/,google news
+https://www.news.google.com,google news
+https://www.photos.google.com,google photos
+https://www.play.google.com,google play
+https://www.plus.google.com,google plus
+https://www.policies.google.com,google policies
+https://scholar.google.com/,google scholar
+https://www.search.google.com,google search
+https://docs.google.com/spreadsheets/,google sheets
+https://sites.google.com/,google sites
+https://www.sites.google.com,google sites
+https://docs.google.com/presentation/,google slides
+https://www.support.google.com,google support
+https://www.tools.google.com,google tools
+https://www.translate.google.com,google translate
+https://www.googleusercontent.com,google user content
+https://www.video.google.com,google video
+https://workspace.google.com/,google workspace
+https://www.workspace.google.com,google workspace
+https://meet.google.com/,goole meet
+https://www.gravatar.com,gravatar
 https://www.gstatic.com,gstatic
+https://news.ycombinator.com/news,hacker news
 https://www.healthline.com,health line
 https://www.hollywoodreporter.com,hollywood reporter
 https://www.hollywoodreporter.com,hollywood reporter
@@ -186,35 +178,48 @@ https://www.howstuffworks.com,how stuff works
 https://www.howtogeek.com,how to geek
 https://www.howtopronounce.com,how to pronounce
 https://www.hubspot.com,hubspot
-https://www.huffingtonpost.com,huffington post
 https://www.huffpost.com,huff post
+https://www.huffingtonpost.com,huffington post
 https://www.hugedomains.com,huge domains
 https://www.ibm.com,ibm
 https://www.ikea.com,ikea
 https://www.imdb.com,imdb
-https://www.imdb.com,internet movie database
 https://www.indeed.com,indeed
 https://www.indiatimes.com,india times
 https://www.indiegogo.com,indiegogo
 https://www.insider.com,insider
 https://www.instructables.com,instructables
 https://www.intel.com,intel
+https://archive.org/,internet archive
+https://www.imdb.com,internet movie database
 https://www.investopedia.com,investopedia
-https://www.ipv4.google.com,google ipv4
 https://www.istockphoto.com,istock photo
 https://www.java.com,java
 https://www.justgiving.com,just giving
 https://www.justjared.com,just jared
 https://www.kickstarter.com,kick starter
+https://read.amazon.com/kindle-library,kindle
+https://leanprover.zulipchat.com/#,lean chat
+https://discord.com/channels/1154493176548184134,lean discord
+https://lean-lang.org/lean4/doc/,lean manual
+https://leanprover-community.github.io/,lean prover community
 https://www.linkedin.com,linked in
 https://www.list-manage.com,list manage
 https://www.live.com,live
 https://www.livejournal.com,live journal
 https://www.lyricstranslate.com,lyrics translate
-https://www.mail.google.com,google mail
 https://www.mailchimp.com,mail chimp
+https://manifold.markets/home,manifold
+https://docs.manifold.markets/api,manifold api
+https://discord.com/channels/915138780216823849/918236290439335936,manifold discord
 https://www.mapquest.com,map quest
-https://www.maps.google.com,google maps
+https://leanprover-community.github.io/mathlib4_docs,math docks
+https://github.com/leanprover-community/mathlib4,math library GitHub
+https://github.com/leanprover-community/mathlib4,math library GitHub
+https://github.com/leanprover-community/mathlib4/pulls?q=is:open+label:awaiting-review+sort:updated-asc+-label:blocked-by-other-PR+-label:merge-conflict+-status:failure+-label:awaiting-CI,math library queue
+https://github.com/leanprover-community/mathlib4,math live GitHub
+https://www.mathoverflow.net,math overflow
+https://math.stackexchange.com,math stack exchange
 https://www.mediafire.com,media fire
 https://www.medicalnewstoday.com,medical news today
 https://www.medium.com,medium
@@ -224,7 +229,7 @@ https://www.microsoft.com,microsoft
 https://www.microsoft.com,microsoft
 https://www.mozilla.com,mozilla
 https://www.msn.com,msn
-https://www.myaccount.google.com,google my account
+https://github.com/leanprover-community/mathlib4/pulls?q=is%3Aopen+is%3Apr+author%3ABoltonBailey+sort%3Aupdated-desc,my pull requests
 https://www.myspace.com,my space
 https://www.mystrikingly.com,my strikingly
 https://www.namecheap.com,name cheap
@@ -233,22 +238,22 @@ https://www.nature.com,nature
 https://www.naver.com,naver
 https://www.nba.com,nba
 https://www.nbcnews.com,nbc news
-https://www.netflix.com,netflix
 https://www.netvibes.com,net vibes
-https://www.news.google.com,google news
-https://www.news.yahoo.com,yahoo news
-https://www.newsweek.com,news week
-https://www.newyorker.com,new yorker
-https://www.nextdoor.com,next door
-https://www.nginx.com,engine x
+https://www.netflix.com,netflix
 https://www.nypost.com,new york post
 https://www.nytimes.com,new york times
 https://www.nytimes.com/crosswords/game/mini,new york times mini crossword
+https://www.newyorker.com,new yorker
+https://www.newsweek.com,news week
+https://www.nextdoor.com,next door
 https://www.office.com,office
 https://www.offset.com,offset
 https://www.olympics.com,olympics
+https://oeis.org/,on line encyclopedia of integer sequences
+https://chat.openai.com/,open ai chat
 https://www.opera.com,opera
 https://www.oracle.com,oracle
+https://outlook.office.com/mail/,outlook
 https://www.outlook.com,outlook
 https://www.over-blog.com,over blog
 https://www.overleaf.com/project,over leaf
@@ -259,24 +264,24 @@ https://www.paypal.com,pay pal
 https://www.people.com,people
 https://www.pexels.com,pexels
 https://www.photobucket.com,photo bucket
-https://www.photos.google.com,google photos
+https://physics.stackexchange.com,physics stack exchange
 https://www.pinterest.com,pinterest
 https://www.pinterest.com,pinterest
 https://www.pixabay.com,pixabay
-https://www.play.google.com,google play
 https://www.playstation.com,play station
 https://www.plesk.com,plesk
-https://www.plus.google.com,google plus
-https://www.policies.google.com,google policies
+https://polygonscan.com/,polygon scan
 https://www.prezi.com,prezi
 https://www.psychologytoday.com,psychology today
 https://www.psychologytoday.com,psychology today
-https://www.public-api.wordpress.com,wordpress public api
 https://www.quora.com,quora
+https://rango.click/#/,rain go
+https://github.com/david-tejada/rango,rain go GitHub
 https://www.random.org/,random dot org
 https://www.rapidshare.com,rapid share
 https://www.redbull.com,red bull
 https://www.reddit.com,reddit
+https://reservoir.lean-lang.org/,reservoir
 https://www.reuters.com,reuters
 https://www.reverbnation.com,reverb nation
 https://www.rottentomatoes.com,rotten tomatoes
@@ -286,124 +291,119 @@ https://www.scholastic.com,scholastic
 https://www.sciencedaily.com,science daily
 https://www.sciencedirect.com,science direct
 https://www.scientificamerican.com,scientific american
-https://www.scmp.com,south china morning post
 https://www.screenrant.com,screen rant
 https://www.scribd.com,scribed
-https://www.search.google.com,google search
-https://www.search.yahoo.com,yahoo search
 https://www.self.com,self
 https://www.sendspace.com,send space
 https://www.sfgate.com,sf gate
 https://www.shazam.com,shazam
 https://www.shopify.com,shopify
 https://www.shutterstock.com,shutter stock
-https://www.sites.google.com,google sites
 https://www.sky.com,sky
 https://www.skype.com,skype
 https://www.smithsonianmag.com,smithsonian magazine
+https://socialblade.com/,social blade
 https://www.softonic.com,softonic
 https://www.songfacts.com,song facts
 https://www.sony.com,sony
 https://www.soundcloud.com,sound cloud
+https://www.scmp.com,south china morning post
 https://www.spotify.com,spotify
 https://www.springer.com,springer
 https://www.sputniknews.com,sputnik news
+https://www.stackexchange.com,stack exchange
+https://www.stackoverflow.com,stack overflow
 https://www.statista.com,statista
 https://www.steamcommunity.com,steam community
 https://www.steampowered.com,steam powered
-https://www.storage.canalblog.com,canalblog storage
-https://www.support.google.com,google support
+https://www.substack.com,sub stack
+https://www.substack.com,substack
 https://www.surveymonkey.com,survey monkey
+https://talon-knausj-cheatsheet.netlify.app/,talon cheatsheet
+https://talonvoice.com,talon home page
+https://chaosparrot.github.io/talon_practice/,talon practice
+https://search.talonvoice.com/search/,talon repository search
+https://talonvoice.slack.com/messages/help,talon slack
+https://talon.wiki/,talon wiki
 https://www.target.com,target
 https://www.techcrunch.com,tech crunch
 https://www.techradar.com,tech radar
 https://www.theatlantic.com,the atlantic
 https://www.theconversation.com,the conversation
 https://www.theculturetrip.com,the culture trip
-https://www.thefreedictionary.com,free dictionary
 https://www.thefreedictionary.com,the free dictionary
 https://www.theglobeandmail.com,the globe and mail
 https://www.theguardian.com,the guardian
+https://theoldreader.com/posts/all,the old reader
 https://www.thepioneerwoman.com,the pioneer
-https://www.thesaurus.com,thesaurus dot com
+https://thequantummilkman.substack.com/,the quantum milkman
+https://theuniversitygroup.appfolio.com/connect/users/sign_in,the university group
 https://www.theverge.com,the verge
+https://www.thesaurus.com,thesaurus dot com
 https://www.tiktok.com,tik tok
 https://www.tiktok.com,tiktok
 https://www.time.com,time
 https://www.tinyurl.com,tiny url
-https://www.tools.google.com,google tools
-https://www.translate.google.com,google translate
 https://www.travelandleisure.com,travel and leisure
 https://www.tripadvisor.com,trip advisor
 https://www.trustpilot.com,trustpilot
 https://www.tutorialspoint.com,tutorial point
 https://www.twitch.tv/,twitch
 https://www.twitch.tv/bobross,twitch bob ross
+https://twitter.com/,twitter
 https://www.twitter.com,twitter
 https://www.unsplash.com,unsplash
 https://www.urbandictionary.com,urban dictionary
-https://www.usatoday.com,usa today
 https://www.usnews.com,us news
+https://www.usatoday.com,usa today
 https://www.variety.com,variety
 https://www.vice.com,vice
-https://www.video.google.com,google video
 https://www.viglink.com,viglink
 https://www.vimeo.com,vimeo
 https://www.vistaprint.com,vista print
 https://www.vk.com,vk
+https://www.wsj.com,wall street journal
 https://www.walmart.com,walmart
 https://www.washingtonpost.com,washington post
+https://web.archive.org/,way back machine
+https://weather.com/,weather
 https://www.weather.com,weather
 https://www.weather.com,weather dot com
 https://www.webmd.com,web md
 https://www.webmd.com,web med
+https://www.www.weebly.com,weebly
 https://www.whatsapp.com,whats app
-https://www.wikia.com,wikia
 https://www.wikihow.com,wiki how
 https://www.wikiwand.com,wiki wand
+https://www.wikia.com,wikia
+https://en.wikipedia.org/,wikipedia
 https://www.wiley.com,wiley
 https://www.wired.com,wired
 https://www.wix.com,wix
 https://www.womenshealthmag.com,womens health magazine
 https://www.wordpress.com,word press
 https://www.wordreference.com,word referencev
-https://www.workspace.google.com,google workspace
-https://www.wsj.com,wall street journal
-https://www.www.weebly.com,weebly
+https://www.files.wordpress.com,wordpress files
+https://www.public-api.wordpress.com,wordpress public api
 https://www.www.yahoo.com,yahoo
 https://www.yahoo.com,yahoo
+https://www.finance.yahoo.com,yahoo finance
+https://www.news.yahoo.com,yahoo news
+https://www.search.yahoo.com,yahoo search
 https://www.yandex.com,yandex
 https://www.yellowpages.com,yellow pages
 https://www.yelp.com,yelp
 https://www.yourdictionary.com,your dictionary
 https://www.youronlinechoices.com,your online choices
 https://www.youtube.com/,youtube
-https://www.youtube.com/playlist?list=WL,youtube watch later
+https://www.youtube.com/feed/you,youtube feed
+https://www.youtube.com/feed/you,youtube library
 https://www.youtube.com/shorts/,youtube shorts
 https://studio.youtube.com/,youtube studio
 https://www.youtube.com/feed/subscriptions,youtube subscriptions
+https://www.youtube.com/feed/trending,youtube trending
+https://www.youtube.com/playlist?list=WL,youtube watch later
 https://www.zendesk.com,zen desk
 https://www.zendesk.com,zendesk
-https://www.zippyshare.com,zippy share
 https://www.ziprecruiter.com,zip recruiter
-https://www.google.com/finance/,google finance
-https://www.earth.google.com/,google earth
-https://discord.com/channels/1154493176548184134,lean discord
-https://www.youtube.com/feed/you,youtube feed
-https://www.youtube.com/feed/you,youtube library
-https://oeis.org/,on line encyclopedia of integer sequences
-https://github.com/leanprover-community/mathlib4,math library GitHub
-https://github.com/leanprover-community/mathlib4,math live GitHub
-https://socialblade.com/,social blade
-https://www.youtube.com/feed/trending,youtube trending
-https://github.com/leanprover-community/mathlib4/pulls?q=is:open+label:awaiting-review+sort:updated-asc+-label:blocked-by-other-PR+-label:merge-conflict+-status:failure+-label:awaiting-CI,math library queue
-https://thequantummilkman.substack.com/,the quantum milkman
-https://www.substack.com,sub stack
-https://www.substack.com,substack
-https://www.stackexchange.com,stack exchange
-https://www.stackoverflow.com,stack overflow
-https://www.mathoverflow.net,math overflow
-https://math.stackexchange.com,math stack exchange
-https://physics.stackexchange.com,physics stack exchange
-https://codegolf.stackexchange.com,code golf stack exchange
-https://cs.stackexchange.com,computer science stack exchange
+https://www.zippyshare.com,zippy share
