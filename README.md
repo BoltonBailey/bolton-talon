@@ -13,8 +13,6 @@ This is a folder I created to house my [Talon](https://talon.wiki/) settings. It
   |- rango-talon
 ```
 
-Note that the file `websites.csv` is meant to be embedded within the `community/settings/` folder. If you want access to these websites you'll have to port them over.
-
 ## My Settings Philosophy
 
 I am a relatively new talon user, and I am finding that the number of builtin commands in community is too few for my tastes. Here is what I would like to have, in a perfect world (in the form of a checklist):
@@ -40,11 +38,19 @@ I am a relatively new talon user, and I am finding that the number of builtin co
   - [ ] [GitHub](https://docs.github.com/en/desktop/overview/github-desktop-keyboard-shortcuts)
   - [ ] [Zulip](https://zulip.com/help/keyboard-shortcuts)
 - [ ] More app specific commands
-  - [ ] Basically any menu bar item for a popular MacOS app should be present
+  - [ ] Basically any menu bar item for a popular macOS app should be present
     - [ ] With the name of the command in the bar matching the spoken command
+    - [ ] See AXKit for how to do this
 - [ ] There should more often be multiple phrases for the same command
   - [ ] Instead of confusion over word order of "tab new"/"new tab" the word order should appear both ways.
+  - [ ] Although if only one can exist, I would prefer the more common word order.
+    - [ ] e.g. "new tab" over "tab new".
+    - [ ] Which is not how it seems to be by default.
 
 ## Contribute
 
 If you want to add something you think should obviously be present according to the above philosophy feel free to fork or submit a PR.
+
+## Further Reading
+
+<http://redstartsystems.com/human-machine-grammar-the-rules>
