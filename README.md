@@ -19,13 +19,13 @@ Note that the file `websites.csv` is meant to be embedded within the `community/
 
 I am a relatively new talon user, and I am finding that the number of builtin commands in community is too few for my tastes. Here is what I would like to have, in a perfect world (in the form of a checklist):
 
-- [ ] The `websites.csv` file of `community` would be greatly expanded.
+- [X] The ~~`websites.csv`~~ `website.talon-list` file of `community` would be greatly expanded.
   - [X] This should contain basically any top-1000 SFW english-language website which is referred to by:
     - [ ] a word,
     - [ ] a homophone of a word,
     - [ ] or a concatentation of words
   - [ ] It should also contain popular subdomains/directory of sites
-    - [X] e.g. "google news"
+    - [X] e.g. <https://news.google.com/> should be present as "Google News"
   - [ ] Websites for software projects should be available as well:
     - [ ] many of the [top-100-by-stars GitHub repos](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Top-100-stars.md) should exist as "{word or phrase} GitHub"
     - [ ] Package manager sites should be present
