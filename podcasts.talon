@@ -3,7 +3,7 @@ app: Podcasts
 -
 
 skip forward:
-    key(cmd-right)
+    user.menu_select('Controls|Skip 30 sec')
 
 skip back:
     key(cmd-left)
