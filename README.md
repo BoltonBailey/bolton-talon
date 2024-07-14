@@ -41,6 +41,7 @@ I am a relatively new talon user, and I am finding that the number of builtin co
   - [ ] Basically any menu bar item for a popular macOS app should be present
     - [ ] With the name of the command in the bar matching the spoken command
     - [ ] See AXKit for how to do this
+  - [ ] PDF readers seem like a particularly command heavy application that would really benefit.
 - [ ] There should more often be multiple phrases for the same command
   - [ ] Instead of confusion over word order of "tab new"/"new tab" the word order should appear both ways.
   - [ ] Although if only one can exist, I would prefer the more common word order.
@@ -54,3 +55,37 @@ If you want to add something you think should obviously be present according to 
 ## Further Reading
 
 <http://redstartsystems.com/human-machine-grammar-the-rules>
+
+## Other Thoughts/Feautre Requests for this Ecosystem
+
+### Speaking links
+
+- [X] [With talon voice / rango it should be possible to say "link {sequence of words}" and have the linkified text which most fuzzy-matches those words be clicked on, just like I can say](https://github.com/david-tejada/rango/issues/267)
+  - [X] Update: Note that this functionality is also accomplished by talon OCR, which works by brute force ocr of the screen.
+
+### Make talon not hear audio
+
+Talon seems to hear my YouTube videos/my computer audio in general (this is pretty annoying). It could possibly be detected in a few ways:
+
+- Running the speech recognition engine on the computer audio output and comparing to mic input
+- Simply deafening talon whenever the computer audio activates.
+
+And the problems of this could be mitigated in a few ways:
+
+- Automatically sleeping talon
+- Ignoring comands that talon sees in the audio output
+
+The help channel in the slack gave some advice on how to detect audio output:
+
+> `from talon.experimental import media`
+> `media.register('', print)`
+>
+> then look at the events, you can detect some kinds of media playback with talon on Mac
+
+### Other Talon Ideas
+
+- Cursorless should put markers on pairs of characters so that you can refer to those markers by saying pairs of words from the phonetic alphabet
+- When I'm in command mode the color of the readback should be different
+- LLM integrations:
+  - In command mode, check semantically nearby phrases when a particular phrase doesn't match any command.
+  - Use OCR to read my screen and check that my dictation mode is grammatical.
