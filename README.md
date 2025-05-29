@@ -13,30 +13,42 @@ This is a folder I created to house my [Talon](https://talon.wiki/) settings. It
   |- rango-talon
 ```
 
+## My command naming philosophy
+
+I try to favor commands that 
+
+* Parse as English phrases starting with mandative verbs (e.g. "open", "close", "go to", "click", etc.).
+* Reflect the name of the keyboard shortcut or menu item that they are intended to replace.
+
+This seems somewhat contrary to the community's philosophy, I am not really sure why the command to make a new tab is "tab new" rather than "new tab".
+
 ## My Settings Philosophy
 
-I am a relatively new talon user, and I am finding that the number of builtin commands in community is too few for my tastes. Here is what I would like to have, in a perfect world (in the form of a checklist):
+I am a relatively new talon user, and I am finding that the number of built-in commands in community is too few for my tastes. 
+
+Here is what I would like to have, in a perfect world (in the form of a checklist):
 
 - [X] The ~~`websites.csv`~~ `website.talon-list` file of `community` would be greatly expanded.
-  - [X] This should contain basically any top-1000 SFW english-language website which is referred to by:
+  - [X] This should contain basically any top-1000 SFW English language website which is referred to by:
     - [ ] a word,
     - [ ] a homophone of a word,
-    - [ ] or a concatentation of words
+    - [ ] or a concatenation of words
   - [ ] It should also contain popular subdomains/directory of sites
     - [X] e.g. <https://news.google.com/> should be present as "Google News"
   - [ ] Websites for software projects should be available as well:
     - [ ] many of the [top-100-by-stars GitHub repos](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Top-100-stars.md) should exist as "{word or phrase} GitHub"
     - [ ] Package manager sites should be present
-      - [ ] top pypi packages should exist as "python {word or phrase}" (linking to the site when possible, not the pypi page)
+      - [ ] top PyPi packages should exist as "python {word or phrase}" (linking to the site when possible, not the PyPi page)
       - [ ] top cargo packages as "cargo {word or phrase}"
       - [ ] etc.
   - [ ] Really, rather than having `websites.csv` file at all, whenever a website is expected, it should just return the top search engine result queried on the spoken phrase.
 - [ ] Popular websites with keyboard shortcuts
   - [X] YouTube
-    - [ ] All the commands that are displayed on by typing "?" should have voice commands.
+    - [ ] All the commands that are displayed by typing "?" should have voice commands.
     - [ ] "Go to time xxx"
+    - [ ] "Go to thirty percent" for 30% through the video
   - [ ] [GitHub](https://docs.github.com/en/desktop/overview/github-desktop-keyboard-shortcuts)
-  - [ ] [Zulip](https://zulip.com/help/keyboard-shortcuts)
+  - [X] [Zulip](https://zulip.com/help/keyboard-shortcuts)
 - [ ] More app specific commands
   - [ ] Basically any menu bar item for a popular macOS app should be present
     - [ ] With the name of the command in the bar matching the spoken command
@@ -56,14 +68,14 @@ If you want to add something you think should obviously be present according to 
 
 <http://redstartsystems.com/human-machine-grammar-the-rules>
 
-## Other Thoughts/Feautre Requests for this Ecosystem
+## Other Thoughts/Feature Requests for this Ecosystem
 
 ### Speaking links
 
 - [X] [With talon voice / rango it should be possible to say "link {sequence of words}" and have the linkified text which most fuzzy-matches those words be clicked on, just like I can say](https://github.com/david-tejada/rango/issues/267)
-  - [X] Update: Note that this functionality is also accomplished by talon OCR, which works by brute force ocr of the screen.
+  - [X] Update: Note that this functionality is also accomplished by talon OCR, which works by brute force OCR of the screen.
 
-### Make talon not hear audio
+### Make Talon not hear audio from the computer itself
 
 Talon seems to hear my YouTube videos/my computer audio in general (this is pretty annoying). It could possibly be detected in a few ways:
 
@@ -73,7 +85,7 @@ Talon seems to hear my YouTube videos/my computer audio in general (this is pret
 And the problems of this could be mitigated in a few ways:
 
 - Automatically sleeping talon
-- Ignoring comands that talon sees in the audio output
+- Ignoring commands that talon sees in the audio output
 
 The help channel in the slack gave some advice on how to detect audio output:
 
@@ -85,7 +97,8 @@ The help channel in the slack gave some advice on how to detect audio output:
 ### Other Talon Ideas
 
 - Cursorless should put markers on pairs of characters so that you can refer to those markers by saying pairs of words from the phonetic alphabet
-- When I'm in command mode the color of the readback should be different
+- When I'm in command mode, the color of the readback should be different
+  - This would help me distinguish between command mode and dictation mode, so that I am not confused when I say a command that is not recognized.
 - LLM integrations:
   - In command mode, check semantically nearby phrases when a particular phrase doesn't match any command.
   - Use OCR to read my screen and check that my dictation mode is grammatical.
