@@ -1,11 +1,14 @@
 list: user.search_engine
 mode: all
 -
-
+# Called in knausj talon using the phrase "<search engine> hunt <search phrase>"
+# e.g. "google hunt peanuts"
 amazon: https://www.amazon.com/s/?field-keywords=%s
 google: https://www.google.com/search?q=%s
 map: https://maps.google.com/maps?q=%s
 math docs: https://leanprover-community.github.io/mathlib4_docs/search.html?sitesearch=https%3A%2F%2Fleanprover-community.github.io%2Fmathlib4_docs&q=%s
+lean search: https://leansearch.net/?q=%s
+lean explore: https://www.leanexplore.com/?q=%s
 scholar: https://scholar.google.com/scholar?q=%s
 flapjack: https://scholar.google.com/scholar?q=%s
 wiki: https://en.wikipedia.org/w/index.php?search=%s
