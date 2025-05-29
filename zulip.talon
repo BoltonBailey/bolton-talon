@@ -94,6 +94,7 @@ search messages: key(/)
 # *   **Go forward through viewing history**: Alt + →
     
 # *   **Go to next unread topic**: N
+(next | next topic): key(n)
     
 # *   **Go to next unread direct message**: P
     
