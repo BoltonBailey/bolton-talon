@@ -68,15 +68,3 @@ If you want to add something you think should obviously be present according to 
 
 <http://redstartsystems.com/human-machine-grammar-the-rules>
 
-## Other Thoughts/Feature Requests for this Ecosystem
-
-### Speaking links
-
-- [X] [With talon voice / rango it should be possible to say "link {sequence of words}" and have the linkified text which most fuzzy-matches those words be clicked on, just like I can say](https://github.com/david-tejada/rango/issues/267)
-  - [X] Update: Note that this functionality is also accomplished by talon OCR, which works by brute force OCR of the screen.
-
-### Other Talon Ideas
-
-- LLM integrations:
-  - In command mode, check semantically nearby phrases when a particular phrase doesn't match any command.
-  - Use OCR to read my screen and check that my dictation mode is grammatical.
