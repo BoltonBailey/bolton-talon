@@ -97,8 +97,6 @@ The help channel in the slack gave some advice on how to detect audio output:
 ### Other Talon Ideas
 
 - Cursorless should put markers on pairs of characters so that you can refer to those markers by saying pairs of words from the phonetic alphabet
-- When I'm in command mode, the color of the readback should be different
-  - This would help me distinguish between command mode and dictation mode, so that I am not confused when I say a command that is not recognized.
 - LLM integrations:
   - In command mode, check semantically nearby phrases when a particular phrase doesn't match any command.
   - Use OCR to read my screen and check that my dictation mode is grammatical.
