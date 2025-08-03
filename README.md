@@ -77,7 +77,6 @@ If you want to add something you think should obviously be present according to 
 
 ### Other Talon Ideas
 
-- Cursorless should put markers on pairs of characters so that you can refer to those markers by saying pairs of words from the phonetic alphabet
 - LLM integrations:
   - In command mode, check semantically nearby phrases when a particular phrase doesn't match any command.
   - Use OCR to read my screen and check that my dictation mode is grammatical.
