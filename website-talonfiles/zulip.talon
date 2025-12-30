@@ -44,13 +44,12 @@ new direct message: key(x)
 next message: key(j)
 
 # *   **Last message**: End or Shift + G — Also marks all messages in the current view as read.
-last message: key(shift+g)
 
 # *   **Next unread topic**: N
 (next unread topic|next topic): key(n)
     
 # *   **Next unread followed topic**: Shift + N
-(next unread followed topic|next followed topic): key(shift+n)
+(next unread followed topic|next followed topic): key(shift-n)
     
 # *   **Next unread direct message**: P
 (next unread direct message|next direct message): key(p)
@@ -74,12 +73,15 @@ search messages: key(/)
     
 
 # *   **Last message**: End or Shift + G — Also marks all messages in the current view as read.
-    
+(mark read | mark as read | last message): key(shift-g)
+
 # *   **First message**: Home
     
 # *   **Previous message**: ↑ or K
-    
+up: key(up)
+
 # *   **Next message**: ↓ or J
+down: key(down)
     
 # *   **Scroll up**: PgUp or Shift + K
     

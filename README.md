@@ -68,39 +68,3 @@ If you want to add something you think should obviously be present according to 
 
 <http://redstartsystems.com/human-machine-grammar-the-rules>
 
-## Other Thoughts/Feature Requests for this Ecosystem
-
-### Speaking links
-
-- [X] [With talon voice / rango it should be possible to say "link {sequence of words}" and have the linkified text which most fuzzy-matches those words be clicked on, just like I can say](https://github.com/david-tejada/rango/issues/267)
-  - [X] Update: Note that this functionality is also accomplished by talon OCR, which works by brute force OCR of the screen.
-
-### Make Talon not hear audio from the computer itself
-
-Talon seems to hear my YouTube videos/my computer audio in general (this is pretty annoying). It could possibly be detected in a few ways:
-
-- Running the speech recognition engine on the computer audio output and comparing to mic input
-- Simply deafening talon whenever the computer audio activates.
-
-And the problems of this could be mitigated in a few ways:
-
-- Automatically sleeping talon
-- Ignoring commands that talon sees in the audio output
-
-The help channel in the slack gave some advice on how to detect audio output:
-
-> `from talon.experimental import media`
-> `media.register('', print)`
->
-> then look at the events, you can detect some kinds of media playback with talon on Mac
-
-### Other Talon Ideas
-
-- [Cursorless](https://www.cursorless.org/) should put markers on pairs of characters so that you can refer to those markers by saying pairs of words from the phonetic alphabet
-- When I'm in command mode, the color of the readback should be different
-  - This would help me distinguish between command mode and dictation mode, so that I fix my confusion quickly.
-- LLM integrations:
-  - In command mode, check semantically nearby phrases when a particular phrase doesn't match any command.
-  - Use OCR to read my screen and check that my dictation mode is grammatical.
-- I Just noticed that some commands weren't working because I had written `key(shift+g)` instead of `key(shift-g)`. 
-  - There should be some kind of error checking for malformed talon commands.

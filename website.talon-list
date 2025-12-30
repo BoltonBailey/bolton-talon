@@ -110,6 +110,9 @@ gist: https://gist.github.com
 github: https://github.com
 github gist: https://gist.github.com
 github pages: https://pages.github.com
+github notifications: https://github.com/notifications
+github pull requests: https://github.com/pulls
+github my issues: https://github.com/issues/created
 gizmodo: https://gizmodo.com
 globo: https://globo.com
 gmail: https://gmail.com
@@ -125,7 +128,6 @@ google ads settings: https://adssettings.google.com
 google blog: https://googleblog.com
 google blog: https://blog.google.com
 google books: https://books.google.com
-google br: https://google.com.br
 google calendar: https://calendar.google.com
 google code: https://code.google.com
 google developers: https://developers.google.com
@@ -191,6 +193,7 @@ just jared: https://justjared.com
 kick starter: https://kickstarter.com
 kindle: https://read.amazon.com/kindle-library
 lean chat: https://leanprover.zulipchat.com/#
+lean zulip: https://leanprover.zulipchat.com/#
 lean discord: https://discord.com/channels/1154493176548184134
 lean manual: https://lean-lang.org/lean4/doc
 lean prover community: https://leanprover-community.github.io
@@ -262,7 +265,8 @@ polygon scan: https://polygonscan.com
 prezi: https://prezi.com
 psychology today: https://psychologytoday.com
 quora: https://quora.com
-rain go: https://rango.click/#
+quantum milkman: https://thequantummilkman.substack.com/
+rain go: https://rango.click/
 rain go GitHub: https://github.com/david-tejada/rango
 random dot org: https://random.org
 rapid share: https://rapidshare.com
@@ -322,7 +326,7 @@ the free dictionary: https://thefreedictionary.com
 the globe and mail: https://theglobeandmail.com
 the guardian: https://theguardian.com
 the old reader: https://theoldreader.com/posts/all
-the pioneer: https://thepioneerwoman.com
+the pioneer woman: https://thepioneerwoman.com
 the quantum milkman: https://thequantummilkman.substack.com
 the university group: https://theuniversitygroup.appfolio.com/connect/users/sign_in
 the verge: https://theverge.com
