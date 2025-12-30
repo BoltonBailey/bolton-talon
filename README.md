@@ -20,7 +20,7 @@ I try to favor commands that
 * Parse as English phrases starting with mandative verbs (e.g. "open", "close", "go to", "click", etc.).
 * Reflect the name of the keyboard shortcut or menu item that they are intended to replace.
 
-This seems somewhat contrary to the community's philosophy, I am not really sure why the command to make a new tab is "tab new" rather than "new tab".
+This seems somewhat contrary to [`talonhub/community`'s philosophy](https://github.com/talonhub/community/blob/36e2cd647c3a11b5412a498a7bf43605264d886e/CONTRIBUTING.md?plain=1#L7), I am not really sure why, e.g., the command to make a new tab is "tab new" rather than "new tab", the explanations on that page don't make much sense to me.
 
 ## My Settings Philosophy
 
@@ -96,9 +96,11 @@ The help channel in the slack gave some advice on how to detect audio output:
 
 ### Other Talon Ideas
 
-- Cursorless should put markers on pairs of characters so that you can refer to those markers by saying pairs of words from the phonetic alphabet
+- [Cursorless](https://www.cursorless.org/) should put markers on pairs of characters so that you can refer to those markers by saying pairs of words from the phonetic alphabet
 - When I'm in command mode, the color of the readback should be different
-  - This would help me distinguish between command mode and dictation mode, so that I am not confused when I say a command that is not recognized.
+  - This would help me distinguish between command mode and dictation mode, so that I fix my confusion quickly.
 - LLM integrations:
   - In command mode, check semantically nearby phrases when a particular phrase doesn't match any command.
   - Use OCR to read my screen and check that my dictation mode is grammatical.
+- I Just noticed that some commands weren't working because I had written `key(shift+g)` instead of `key(shift-g)`. 
+  - There should be some kind of error checking for malformed talon commands.
