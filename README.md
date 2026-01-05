@@ -17,7 +17,7 @@ This is a folder I created to house my [Talon](https://talon.wiki/) settings. It
 
 I try to favor commands that 
 
-* Parse as English phrases starting with mandative verbs (e.g. "open", "close", "go to", "click", etc.).
+* Parse as English phrases starting with mandative verbs (e.g. "open", "close", "go to", "click", "search", etc.).
 * Reflect the name of the keyboard shortcut or menu item that they are intended to replace.
 
 This seems somewhat contrary to [`talonhub/community`'s philosophy](https://github.com/talonhub/community/blob/36e2cd647c3a11b5412a498a7bf43605264d886e/CONTRIBUTING.md?plain=1#L7), I am not really sure why, e.g., the command to make a new tab is "tab new" rather than "new tab", the explanations on that page don't make much sense to me.
